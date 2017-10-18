@@ -1,0 +1,53 @@
+{
+"name":"竖版排列",
+"itemCount":"7",
+"t_width":335,
+"t_height":750,
+ "position":[{
+ 	"x":0,
+ 	"y":0,
+ 	"width":335,
+ 	"height":200,
+ 	"imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+
+
+ },{
+	"x":167,
+ 	"y":214,
+ 	"width":167,
+ 	"height":200,
+ 	"imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+ },{
+	"x":0,
+ 	"y":430,
+ 	"width":105,
+ 	"height":200,
+ 	"imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+ },{
+	"x":115,
+ 	"y":430,
+ 	"width":105,
+ 	"height":200,
+ 	"imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+             },{
+             "x":225,
+             "y":430,
+             "width":105,
+             "height":200,
+             "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+             },{
+             "x":0,
+             "y":640,
+             "width":190,
+             "height":150,
+             "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+             },{
+             "x":200,
+             "y":640,
+             "width":135,
+             "height":150,
+             "imageUrl":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505308219368&di=d05ca0f18eb040e826c8f3f9a723040f&imgtype=0&src=http%3A%2F%2Fwww.hanhande.com%2Fupload%2F160809%2F4182591_112520_6162.jpg"
+             }]
+
+
+}
